@@ -36,26 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathiskrr&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathiskrr&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiskrr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 - ⚙️ Hardware Checker (Python)
@@ -70,15 +50,6 @@
 - 🚀 Clean architecture & scalable systems
 - 🧠 Advanced Angular patterns
 - 🔐 Secure backend APIs
-
----
-
-## 🎮 Fun
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Playing-Gaming-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge" />
-</p>
 
 ---
 
